@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/joedayz/config-repository
+          uri: https://github.com/iscodem/config-repository
           searchPaths: customer-service,customer-account-service
-          username: joedayz
-          password: 123
+          #username: iscodem
+          #password: 123
